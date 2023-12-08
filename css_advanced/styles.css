@@ -33,7 +33,7 @@ a {
 }
 
 .main-part1 {
-  margin-top: 250px;
+  margin-top: 150px;
   text-align: center;
 }
 
@@ -71,7 +71,7 @@ span {
   font-size: 32px;
   font-weight: lighter;
   text-align: center;
-  margin-top: 280px;
+  margin-top: 180px;
 }
 
 .pros {
@@ -110,7 +110,7 @@ span {
   justify-content: center;
   align-items: center;
   height: 392px;
-  margin-top: -6px;
+  margin-top: 0px;
 }
 
 .testimonials {
