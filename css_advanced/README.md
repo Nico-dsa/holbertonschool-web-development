@@ -2,6 +2,8 @@
 
 ## Objective
 
+![websitefinal](https://github.com/Nico-dsa/holbertonschool-web-development/assets/124582867/d8a52b04-f9c5-4da8-ad4a-8c39099eeb00)
+
 For this project, you  will focus on the CSS and the style of the page.
 
 ## Learning Objectives
