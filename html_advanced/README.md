@@ -1,8 +1,11 @@
 # HTML Advanced
 
+![websitefinal](https://github.com/Nico-dsa/holbertonschool-web-development/assets/124582867/a6d9a2f4-7a53-4a93-a9fb-ad9c8f2e83a7)
+
 ## **Description:** :speech_balloon:
 
 * This project is focused solely on developing the HTML structure - no CSS or styling yet, just pure HTML semantics. Our aim is to construct a solid foundation with a clean, semantic HTML codebase.
+
 
 ## Accessing the Design File
 
